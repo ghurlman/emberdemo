@@ -1,0 +1,12 @@
+{
+  "profiles": [
+    {
+      "name": "Ember Serve",
+      "executablePath": "C:\\Users\\ghurlman\\AppData\\Roaming\\npm\\ember",
+      "commandLineArgs": "serve",
+      "workingDirectory": "C:\\Users\\ghurlman\\dev\\emberdemo\\src\\emberdemo",
+      "launchBrowser": true,
+      "launchUrl": "http://localhost:4200"
+    }
+  ]
+}
